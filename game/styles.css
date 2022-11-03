@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: space;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #c8dad3;
+    
+    
+}
+.headline{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
